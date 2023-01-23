@@ -3,16 +3,20 @@
 </h1>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" />
+</p>
+
+<p align="center">
   <a href="#book-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#%EF%B8%8F-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#gear-config-application">Config application</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-running-the-app">Running the app</a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=React Native&message=framework&color=00A1BF&labelColor=000000&logo=REACT" alt="React Native" />
-  
-  <img src="https://img.shields.io/static/v1?label=types&message=Typescript&color=00A1BF&labelColor=000000" alt="Typescript" />
 </p>
 
 ## :book: About
